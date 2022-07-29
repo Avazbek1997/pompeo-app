@@ -1,0 +1,161 @@
+@media screen and (max-width:1366px) {
+    
+}
+@media screen and (max-width:1200px) {
+    
+}
+@media screen and (max-width:992px) {
+    
+}
+@media screen and (max-width:768px) {
+    .header_inner h1{
+        width: 100%;
+        text-align: center;
+    }
+    .header_inner ul{
+        width: 100%;
+    }
+    .header_inner{
+        display: none;
+    }
+    .site .unique .unique_inner{
+        flex-direction: column;
+        padding: 5%;
+        width: 90%;
+        
+
+    }
+    .site .unique .unique_inner .unique_inner_left h2{
+        width: 100%;
+        font-size: 25px;
+        padding: 0 ;
+    }
+    .site .unique .unique_inner .unique_inner_left{
+        width: 100%;
+    }
+    .site .unique .unique_inner .unique_inner_right img{
+        width: 100%;}
+    .site .unique .unique_inner .unique_inner_right img{
+        width: 90%;
+     
+
+    }
+    .site .unique .unique_inner .unique_inner_left button {
+        width: 100px;
+        font-size: 10px;
+    }
+    .site .circle h4{
+        width: 0;
+        font-size: 0;
+    }
+}
+@media screen and (max-width:576px) {
+    .site .header .header_inner{
+        flex-direction: column;
+    }
+    .header_inner h1{
+        width: 100%;
+        text-align: center;
+    }
+    .header_inner ul{
+        width: 100%;
+    }
+    .header_inner{
+        display: none;
+    }
+    .site .unique .unique_inner{
+        flex-direction: column;
+        padding: 5%;
+        width: 90%;
+        
+
+    }
+    .site .unique .unique_inner .unique_inner_left h2{
+        width: 100%;
+        font-size: 25px;
+        padding: 0 ;
+    }
+    .site .unique .unique_inner .unique_inner_left{
+        width: 100%;
+    }
+    .site .unique .unique_inner .unique_inner_right img{
+        width: 100%;}
+    .site .unique .unique_inner .unique_inner_right img{
+        width: 90%;
+     
+
+    }
+    .site .unique .unique_inner .unique_inner_left button {
+        width: 100px;
+        font-size: 10px;
+    }
+    
+    .site .circle h4{
+        width: 0;
+        font-size: 0;
+    }
+    .site .circle .circle_inner .card{
+        margin-top: 10px;
+    }
+    .site .orta_yozuv{
+        flex-direction: column;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+    .site .orta_yozuv   .Hand_Grafted{
+        width: 90%;
+        padding: 5%;
+        margin: 0;
+
+    }
+    .site .orta_yozuv   .Hand_Grafted p{
+        width: 90%;
+        padding: 0;
+    }
+    .site .orta_yozuv   .we_prowided{
+        width: 90%;
+        padding: 5%;
+    }
+    .site .orta_yozuv   .we_prowided p{
+        width: 90%;
+       
+    }
+    .site .kozali_div .kozalar .kozalar_inner {
+        width: 90%;
+        padding: 5%;
+        flex-direction: column;
+    }
+    .site .kozali_div .kozalar .kozalar_inner .kozalar_inner_image{
+        width: 100%;
+        float: left;
+    }
+    .site .kozali_div .kozalar .kozalar_inner .kozalar_inner_text{
+        width: 100%;
+        float: left;
+    }
+    .narxli_card p{
+        font-size: 10px;
+    }
+    .site .buttonli .gold_plate h4{
+        margin-top: 15px;
+    }
+    .site .buttonli .gold_plate h3{
+        width: 100%;
+        font-size: 20px;
+        padding-right: 0;
+    }
+    .site .buttonli .gold_plate button{
+        width: 100px;
+        font-size: 10px;
+    }
+    .site .information ul li{
+        width: 60%;
+        margin: auto;
+        margin-top: 20px;
+        text-align: center;
+    }
+}
+@media screen and (max-width:320px) {
+    
+}
